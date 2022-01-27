@@ -1,4 +1,4 @@
-[![백쥰](https://www.acmicpc.net/problem/22868)](https://media.vlpt.us/images/blucky8649/post/717f89c5-e74d-4a6a-ae13-3e51d6e8da7b/%EC%8D%B8%EB%84%A4%EC%9D%B4%EB%A3%A8-001%20(4).png)
+[![백쥰](https://media.vlpt.us/images/blucky8649/post/717f89c5-e74d-4a6a-ae13-3e51d6e8da7b/%EC%8D%B8%EB%84%A4%EC%9D%B4%EB%A3%A8-001%20(4).png)](https://www.acmicpc.net/problem/22868)
 
 [문제 풀러 가기!](https://www.acmicpc.net/problem/22868)
 
