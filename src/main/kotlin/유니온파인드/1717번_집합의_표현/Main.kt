@@ -1,4 +1,4 @@
-package 위상정렬.`1717번_집합의_표현`
+package 유니온파인드.`1717번_집합의_표현`
 
 import java.lang.StringBuilder
 
