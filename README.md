@@ -1,5 +1,6 @@
 # :book: Baekjoon Online Judge 문제 풀이 모음집
 ![sadf](https://img.shields.io/github/languages/top/blucky8649/Baekjoon_Online_Judge)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/blucky8649/Baekjoon_Online_Judge&count_bg=%23FF6565&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## :boy: Profile (Solved.ac)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
 ## :pencil: Contents
