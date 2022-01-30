@@ -17,3 +17,6 @@
 
 ### 위상정렬
 * [[Gold 2] 23059번 : 리그 오브 레게노](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/23059%EB%B2%88_%EB%A6%AC%EA%B7%B8%EC%98%A4%EB%B8%8C%EB%A0%88%EA%B2%8C%EB%85%B8)
+
+### 최소 신장 트리 (MST)
+* [[Gold 3] 14621번 : 나만 안되는 연애](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC/14621%EB%B2%88_%EB%82%98%EB%A7%8C_%EC%95%88%EB%90%98%EB%8A%94_%EC%97%B0%EC%95%A0)
