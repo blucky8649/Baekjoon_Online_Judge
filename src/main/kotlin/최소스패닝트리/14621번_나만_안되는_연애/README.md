@@ -1,5 +1,5 @@
 [![image](https://user-images.githubusercontent.com/83625797/151699138-1890833b-4af3-4d3a-89a6-40c119b8c74c.png)
-)](https://www.acmicpc.net/problem/14621)
+](https://www.acmicpc.net/problem/14621)
 [문제 풀러 가기!](https://www.acmicpc.net/problem/14621)
 
 ## 문제
