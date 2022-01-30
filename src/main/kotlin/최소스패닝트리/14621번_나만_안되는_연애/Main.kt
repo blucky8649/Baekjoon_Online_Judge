@@ -1,6 +1,7 @@
 package 최소스패닝트리.`14621번_나만_안되는_연애`
 
 import java.util.*
+
 private lateinit var parents : Array<Int>
 fun main(args : Array<String>) = with(System.`in`.bufferedReader()) {
     val (N, M) = readLine().split(" ").map { it.toInt() }
