@@ -3,7 +3,7 @@ package `너비우선탐색(BFS)`.`4991번_로봇청소기`
 import java.lang.Integer.min
 import java.util.*
 import kotlin.collections.ArrayList
-
+// just TEST
 private lateinit var isVisited : Array<Boolean>
 var answer = Integer.MAX_VALUE
 
