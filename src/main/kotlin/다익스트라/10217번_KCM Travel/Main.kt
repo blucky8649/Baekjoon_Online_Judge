@@ -1,3 +1,5 @@
+package 다익스트라.`KCM Travel`
+
 import java.util.*
 
 const val INF = 1_000_000_000
@@ -40,7 +42,6 @@ fun dijkstra(start: Int, dst: Array<IntArray>, M: Int, N: Int, nodeList: Array<A
             }
         }
     }
-    // 만약 목적지에 도달할 수 없을 시 'Poor 강창모' 출력
     return "Poor KCM"
 }
 data class Node(val end: Int, val weight: Int, val cost: Int) : Comparable<Node> {
