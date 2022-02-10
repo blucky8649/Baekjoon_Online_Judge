@@ -13,7 +13,7 @@ val camera = arrayOf(
     arrayOf(arrayOf(1, 0, 3), arrayOf(1, 2, 3), arrayOf(0, 2, 1), arrayOf(0, 2, 3)),    // 4번 CCTV
     arrayOf(arrayOf(0, 1, 2, 3))                                                        // 5번 CCTV
 )
-val dy = arrayOf(-1, 0, 1, 0)
+val dy = arrayOf(-1, 0, 1, 0) // 북, 동, 남, 서 방향에 대한 정보
 val dx = arrayOf(0, 1, 0, -1)
 var max = 0
 var ans = Integer.MAX_VALUE
@@ -68,6 +68,7 @@ fun permutation(range: Int) {
     }
     q.offer(cur)
 }
+
 
 fun move(x: Int, y: Int, dir: Int): Int {
     var cnt = 0
