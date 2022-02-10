@@ -3,12 +3,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/blucky8649/Baekjoon_Online_Judge&count_bg=%23FF6565&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## :boy: Profile (Solved.ac)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
-## :pencil: Contents
+## :pencil: 알고리즘 분류
 ### 너비우선탐색(BFS)
 * [[Gold 3] 22868번 : 산책(Small)](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(BFS)/22868%EB%B2%88_%EC%82%B0%EC%B1%85(Small))
 * [[Gold 2] 4991번 : 로봇 청소기](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(BFS)/4991%EB%B2%88_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0)
 ### 다이나믹 프로그래밍(DP)
 * [[Gold 4] 2602번 : 돌다리 건너기](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(DP)/2602%EB%B2%88_%EB%8F%8C%EB%8B%A4%EB%A6%AC_%EA%B1%B4%EB%84%88%EA%B8%B0)
+### 다익스트라
+* [[Gold 1] 10217번 : KCM Travel](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/10217%EB%B2%88_KCM%20Travel)
 ### 수학
 * [[Gold 4] 22942 : 데이터 체커](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%88%98%ED%95%99/22942%EB%B2%88_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%B2%B4%EC%BB%A4)
 
