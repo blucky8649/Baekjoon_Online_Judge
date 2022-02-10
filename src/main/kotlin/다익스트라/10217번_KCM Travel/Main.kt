@@ -1,4 +1,4 @@
-package 다익스트라.`KCM Travel`
+package 다익스트라.`10217번_KCM Travel`
 
 import java.util.*
 
