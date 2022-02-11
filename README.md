@@ -3,6 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/blucky8649/Baekjoon_Online_Judge&count_bg=%23FF6565&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## :boy: Profile (Solved.ac)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
+## 📓삼성 SW 역량 테스트
+* [[Gold 5] 15683번 : 감시](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/15683%EB%B2%88_%EA%B0%90%EC%8B%9C)
 ## :pencil: 알고리즘 분류
 ### 너비우선탐색(BFS)
 * [[Gold 3] 22868번 : 산책(Small)](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(BFS)/22868%EB%B2%88_%EC%82%B0%EC%B1%85(Small))
