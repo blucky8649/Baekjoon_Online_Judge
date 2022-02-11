@@ -55,7 +55,7 @@ fun permutation(depth: Int, startX: Int, startY: Int) {
             new_x = 0
         }
 
-        for (x in 0 until map[0].size) {
+        for (x in new_x until map[0].size) {
             if (isVisited[y][x] || map[y][x] != 0) continue
             isVisited[y][x] = true // 중복 방지 방문처리
             map[y][x] = 1 // 벽 세우기
