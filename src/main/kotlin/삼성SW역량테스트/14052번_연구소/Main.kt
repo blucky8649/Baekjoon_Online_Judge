@@ -29,11 +29,11 @@ fun main() {
         }
     }
     // 2. 벽 세우기: 백트래킹으로 모든 경우를 따져봐야 함.
-    permutation(0)
+    permutation(0, 0, 0)
     println(answer)
 }
 
-fun permutation(depth: Int) {
+fun permutation(depth: Int, startX: Int, startY: Int) {
     if (depth == 3) {
         // 3. 벽 3개를 다 세웠다면, 이제 바이러스를 퍼뜨려서 안전지대의 개수를 구해보자.
         var countVirusRange = 0
@@ -46,13 +46,21 @@ fun permutation(depth: Int) {
         return
     }
 
-    for (y in map.indices) {
-        for (x in map[0].indices) {
+    for (y in startY until map.size) {
+        var new_x = 0
+        // 2차원 배열에서의 중복 없는 조합
+        if (startY == y) {
+           new_x = startX
+        } else {
+            new_x = 0
+        }
+
+        for (x in 0 until map[0].size) {
             if (isVisited[y][x] || map[y][x] != 0) continue
             isVisited[y][x] = true // 중복 방지 방문처리
             map[y][x] = 1 // 벽 세우기
             max--
-            permutation(depth + 1)
+            permutation(depth + 1, x + 1, y)
             isVisited[y][x] = false // 백트래킹: 원상복귀
             map[y][x] = 0
             max++
