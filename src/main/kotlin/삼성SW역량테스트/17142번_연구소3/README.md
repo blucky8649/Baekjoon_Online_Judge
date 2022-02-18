@@ -1,4 +1,4 @@
-![썸네이루_삼성-001 (3)](https://user-images.githubusercontent.com/83625797/154609533-9ddf2989-a045-45c3-82e1-9196feebf0ab.png)
+![썸네이루_삼성-001 (3)](https://media.vlpt.us/images/blucky8649/post/92eb182f-44b8-4d3d-a4f6-0bff17a43cf8/%EC%8D%B8%EB%84%A4%EC%9D%B4%EB%A3%A8_%EC%82%BC%EC%84%B1-001%20(4).png)
 
 [문제 풀러 가기!](https://www.acmicpc.net/problem/17142)
 ## 풀이
