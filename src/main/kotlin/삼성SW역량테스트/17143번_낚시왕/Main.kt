@@ -16,7 +16,7 @@ fun main() {
 
     repeat(input[2]) {
         val (r, c, s, d, z) = readln().split(" ").map { it.toInt() }
-        var shark = Shark(r, c, s, d, z)
+        val shark = Shark(r, c, s, d, z)
         water[r][c] = shark
         sharks[z] = shark
     }
@@ -36,7 +36,7 @@ fun main() {
 fun positionShark() {
     val sClone = HashMap<Int, Shark>(sharks)
     // 빈 수조 생성: 상어를 재배치 하기 위함
-    val tmp = Array(water.size) { Array<Shark>(water[0].size) { Shark(EMPTY, EMPTY, EMPTY, EMPTY, EMPTY) } }
+    val tmp = Array(water.size) { Array(water[0].size) { Shark(EMPTY, EMPTY, EMPTY, EMPTY, EMPTY) } }
     sClone.forEach { (num, shark) ->
         val targetShark = moveShark(shark.s, shark)
         // 만약 수조가 비어있다면 상어를 놓고, 만약 어떤 상어가 자리잡고있다면 싸워야 한다.
@@ -71,7 +71,7 @@ fun moveShark(remain: Int, shark: Shark): Shark {
     when (shark.d) {
         1 -> {
             if (shark.r - remain < 1) {
-                var moveDist = shark.r - 1 // 한쪽 끝으로 가는 이동거리
+                val moveDist = shark.r - 1 // 한쪽 끝으로 가는 이동거리
                 shark.also {
                     it.r = 1 // 일단 한쪽 끝으로 이동
                     it.d = 2 // 방향 전환
@@ -84,7 +84,7 @@ fun moveShark(remain: Int, shark: Shark): Shark {
 
         2 -> {
             if (shark.r + remain > R) {
-                var moveDist = R - shark.r
+                val moveDist = R - shark.r
                 shark.also {
                     it.r = R
                     it.d = 1
@@ -97,7 +97,7 @@ fun moveShark(remain: Int, shark: Shark): Shark {
 
         3 -> {
             if (shark.c + remain > C) {
-                var moveDist = C - shark.c
+                val moveDist = C - shark.c
                 shark.also {
                     it.c = C
                     it.d = 4
@@ -110,7 +110,7 @@ fun moveShark(remain: Int, shark: Shark): Shark {
 
         4 -> {
             if (shark.c - remain < 1) {
-                var moveDist = shark.c - 1
+                val moveDist = shark.c - 1
                 shark.also {
                     it.c = 1
                     it.d = 3
