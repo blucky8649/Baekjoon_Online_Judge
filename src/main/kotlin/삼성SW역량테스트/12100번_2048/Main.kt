@@ -15,11 +15,11 @@ fun main() {
         board[i] = str.split(" ").map { it.toInt() }.toIntArray()
     }
 
-    permutation(0, "")
+    permutation(0)
     println(answer)
 
 }
-fun permutation(cnt: Int, route: String) {
+fun permutation(cnt: Int) {
     if (cnt == 5) {
         board.forEach { array ->
             array.forEach { num ->
@@ -35,7 +35,7 @@ fun permutation(cnt: Int, route: String) {
     }
     for (i in 0..3) {
         move(i)
-        permutation(cnt + 1, "$route $i")
+        permutation(cnt + 1)
         for (i in board.indices) {
             board[i] = clone_board[i].clone()
         }
