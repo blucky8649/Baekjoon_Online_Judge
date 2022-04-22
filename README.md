@@ -4,6 +4,7 @@
 ## :boy: Profile (Solved.ac)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
 ## 📓삼성 SW 역량 테스트
+* [[Bronze 2] 13458번: 시험 감독](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/13458%EB%B2%88_%EC%8B%9C%ED%97%98%EA%B0%90%EB%8F%85)
 * [[Gold 5] 3190번: 뱀](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/3190_%EB%B1%80)
 * [[Gold 5] 14052번: 연구소](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/14052%EB%B2%88_%EC%97%B0%EA%B5%AC%EC%86%8C)
 * [[Gold 5] 15683번: 감시](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/15683%EB%B2%88_%EA%B0%90%EC%8B%9C)
