@@ -4,13 +4,17 @@
 ## :boy: Profile (Solved.ac)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
 ## 📓삼성 SW 역량 테스트
+* [[Bronze 2] 13458번: 시험 감독](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/13458%EB%B2%88_%EC%8B%9C%ED%97%98%EA%B0%90%EB%8F%85)
+* [[Gold 5] 3190번: 뱀](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/3190_%EB%B1%80)
 * [[Gold 5] 14052번: 연구소](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/14052%EB%B2%88_%EC%97%B0%EA%B5%AC%EC%86%8C)
 * [[Gold 5] 15683번: 감시](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/15683%EB%B2%88_%EA%B0%90%EC%8B%9C)
 * [[Gold 5] 15686번: 치킨 배달](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/15686%EB%B2%88_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC)
 * [[Gold 4] 15685번: 드래곤 커브](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/15685%EB%B2%88_%EB%93%9C%EB%9E%98%EA%B3%A4_%EC%BB%A4%EB%B8%8C)
+* [[Gold 4] 16235번: 나무 재테크](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/16235%EB%B2%88_%EB%82%98%EB%AC%B4%EC%9E%AC%ED%85%8C%ED%81%AC)
 * [[Gold 4] 17142번: 연구소 3](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/17142%EB%B2%88_%EC%97%B0%EA%B5%AC%EC%86%8C3)
 * [[Gold 4] 19238번: 스타트 택시](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/19238%EB%B2%88_%EC%8A%A4%ED%83%80%ED%8A%B8%ED%83%9D%EC%8B%9C)
 * [[Gold 3] 16236번: 아기 상어](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/16236%EB%B2%88_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4)
+* [[Gold 2] 12100번: 2048(easy)](https://github.com/blucky8649/Baekjoon_Online_Judge/blob/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/12100%EB%B2%88_2048/readme.md)
 * [[Gold 2] 17143번: 낚시왕](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/17143%EB%B2%88_%EB%82%9A%EC%8B%9C%EC%99%95)
 * [[Gold 1] 13460번: 구슬 탈출 2](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/13460%EB%B2%88_%EA%B5%AC%EC%8A%AC%ED%83%88%EC%B6%9C2)
 ## :pencil: 알고리즘 분류
