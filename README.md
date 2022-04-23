@@ -17,6 +17,7 @@
 * [[Gold 2] 12100번: 2048(easy)](https://github.com/blucky8649/Baekjoon_Online_Judge/blob/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/12100%EB%B2%88_2048/readme.md)
 * [[Gold 2] 17143번: 낚시왕](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/17143%EB%B2%88_%EB%82%9A%EC%8B%9C%EC%99%95)
 * [[Gold 1] 13460번: 구슬 탈출 2](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/13460%EB%B2%88_%EA%B5%AC%EC%8A%AC%ED%83%88%EC%B6%9C2)
+* [[Gold 1] 23290번: 마법사 상어와 복제](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/23290%EB%B2%88_%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%EB%B3%B5%EC%A0%9C)
 ## :pencil: 알고리즘 분류
 ### 너비우선탐색(BFS)
 * [[Gold 3] 22868번: 산책(Small)](https://github.com/blucky8649/Baekjoon_Online_Judge/tree/master/src/main/kotlin/%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(BFS)/22868%EB%B2%88_%EC%82%B0%EC%B1%85(Small))
